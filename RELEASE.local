@@ -1,0 +1,3 @@
+EPICS_BASE = $(TOP)/..
+# Use the rules in core so that clean targets work to the end
+RULES = $(TOP)/../core

@@ -1,0 +1,4 @@
+INSTALL_LOCATION = $(TOP)/..
+
+# Do not install configuration from base modules
+CONFIG_INSTALLS =
